@@ -20,7 +20,7 @@ A full-stack Realtime Chat App built with the MERN stack, enhanced by Socket.io 
 
 ⏳ And much more!
 
-## Como testar
+## Project Demo
 
 You can access the project here: https://www.loom.com/share/75ae73ec31a7441faf70cfede2d87fef?sid=5c64a300-9f08-4907-a75e-185e89addc4a
 
