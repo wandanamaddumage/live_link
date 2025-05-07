@@ -22,7 +22,7 @@ A full-stack Realtime Chat App built with the MERN stack, enhanced by Socket.io 
 
 
 
-🛠️ Getting Started
+# 🛠️ Getting Started
 1. Clone the repository
 
 ```
@@ -64,7 +64,7 @@ In the client folder:
 npm run build
 ```
 
-🧩 Start the App
+# 🧩 Start the App
 In the server folder:
 
 ```
@@ -73,13 +73,10 @@ npm start
 
 The app will start running at: http://localhost:5001
 
-📦 Deployment
+# 📦 Deployment
 Easily deploy using platforms like Render, Vercel, or Railway
 
 Store your environment variables securely in their respective dashboard
 
-🙌 Contributing
+# 🙌 Contributing
 Contributions are welcome! Open an issue or submit a pull request.
-
-📄 License
-This project is licensed under the MIT License.
