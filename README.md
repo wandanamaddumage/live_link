@@ -29,7 +29,7 @@ You can access the project here: https://www.loom.com/share/75ae73ec31a7441faf70
 1. Clone the repository
 
 ```
-git clone https://github.com/wandanamaddumage/live-link.git
+git clone https://github.com/wandanamaddumage/live_link.git
 cd live-link
 ```
 
