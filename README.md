@@ -2,7 +2,7 @@
 
 A full-stack Realtime Chat App built with the MERN stack, enhanced by Socket.io for real-time communication, and styled with TailwindCSS + Daisy UI.
 
-🚀 Highlights
+## 🚀 Highlights
 
 🌟 Tech stack: MongoDB, Express.js, React, Node.js + Socket.io + TailwindCSS + Daisy UI
 
@@ -29,20 +29,20 @@ You can access the project here: https://www.loom.com/share/75ae73ec31a7441faf70
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/realtime-chat-app.git
-cd realtime-chat-app
+git clone https://github.com/wandanamaddumage/live-link.git
+cd live-link
 ```
 
 2. Install dependencies
-For both client and server:
+For both frontend and backend:
 
 ```
-# In the root folder
+# In the backend folder
 npm install
 
-# Move to client and install
+# Move to frontend and install
 
-cd client
+cd frontend
 npm install
 ```
 ## ⚙️ Setup Environment Variables
@@ -75,11 +75,3 @@ npm start
 ```
 
 The app will start running at: http://localhost:5001
-
-## 📦 Deployment
-Easily deploy using platforms like Render, Vercel, or Railway
-
-Store your environment variables securely in their respective dashboard
-
-# 🙌 Contributing
-Contributions are welcome! Open an issue or submit a pull request.
