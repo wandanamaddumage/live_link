@@ -1,4 +1,4 @@
-# 💬 Live-Link Is A Realtime Chat Application
+# 💬 Live-Link
 
 A full-stack Realtime Chat App built with the MERN stack, enhanced by Socket.io for real-time communication, and styled with TailwindCSS + Daisy UI.
 
