@@ -20,9 +20,12 @@ A full-stack Realtime Chat App built with the MERN stack, enhanced by Socket.io 
 
 ⏳ And much more!
 
+## Como testar
+
+You can access the project here: https://www.loom.com/share/75ae73ec31a7441faf70cfede2d87fef?sid=5c64a300-9f08-4907-a75e-185e89addc4a
 
 
-# 🛠️ Getting Started
+## 🛠️ Getting Started
 1. Clone the repository
 
 ```
@@ -42,7 +45,7 @@ npm install
 cd client
 npm install
 ```
-⚙️ Setup Environment Variables
+## ⚙️ Setup Environment Variables
 Create a .env file in the server directory and add:
 
 ```
@@ -57,14 +60,14 @@ CLOUDINARY_API_SECRET=your_api_secret
 NODE_ENV=development
 ```
 
-🔨 Build the App
+## 🔨 Build the App
 In the client folder:
 
 ```
 npm run build
 ```
 
-# 🧩 Start the App
+## 🧩 Start the App
 In the server folder:
 
 ```
@@ -73,7 +76,7 @@ npm start
 
 The app will start running at: http://localhost:5001
 
-# 📦 Deployment
+## 📦 Deployment
 Easily deploy using platforms like Render, Vercel, or Railway
 
 Store your environment variables securely in their respective dashboard
