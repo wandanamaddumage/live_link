@@ -1,40 +1,29 @@
-# 💬 Live-Link
+# Live-Link
 
 A full-stack Realtime Chat App built with the MERN stack, enhanced by Socket.io for real-time communication, and styled with TailwindCSS + Daisy UI.
 
-## 🚀 Highlights
+## Highlights
 
-🌟 Tech stack: MongoDB, Express.js, React, Node.js + Socket.io + TailwindCSS + Daisy UI
+- User Registration & Login (JWT-based authentication)
+- Secure Authentication & Logout
+- Real-Time Messaging via Socket.io
+- Online User Presence Indicator
+- Cloudinary Integration for Image Uploads
+- Global State Management with Zustand
+- Client & Server-Side Error Handling
+- Responsive UI using TailwindCSS & Daisy UI
 
-🎃 Authentication & Authorization: Secure JWT-based auth system
+## Getting Started
 
-👾 Realtime Messaging: Powered by Socket.io for a seamless chat experience
-
-🚀 Online User Status: Instantly see who's online
-
-👌 Global State Management: Simplified state handling with Zustand
-
-🐞 Robust Error Handling: Comprehensive error reporting both client and server-side
-
-⭐ Deploy Like a Pro: Fully deployable for FREE!
-
-⏳ And much more!
-
-## Project Demo
-
-You can access the project here: https://www.loom.com/share/75ae73ec31a7441faf70cfede2d87fef?sid=5c64a300-9f08-4907-a75e-185e89addc4a
-
-
-## 🛠️ Getting Started
 1. Clone the repository
 
 ```
-git clone https://github.com/wandanamaddumage/live_link.git
+git clone https://github.com/wandanamaddumage/live-link.git
 cd live-link
 ```
 
 2. Install dependencies
-For both frontend and backend:
+   For both frontend and backend:
 
 ```
 # In the backend folder
@@ -45,7 +34,9 @@ npm install
 cd frontend
 npm install
 ```
-## ⚙️ Setup Environment Variables
+
+## Setup Environment Variables
+
 Create a .env file in the server directory and add:
 
 ```
@@ -60,14 +51,16 @@ CLOUDINARY_API_SECRET=your_api_secret
 NODE_ENV=development
 ```
 
-## 🔨 Build the App
+## Build the App
+
 In the client folder:
 
 ```
 npm run build
 ```
 
-## 🧩 Start the App
+## Start the App
+
 In the server folder:
 
 ```
